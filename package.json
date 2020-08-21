@@ -26,6 +26,6 @@
   "license": "MIT",
   "dependencies": {
     "loader-utils": "^0.2.17",
-    "pug": "^2.0.0-rc.2"
+    "pug": "^3.0.0"
   }
 }
